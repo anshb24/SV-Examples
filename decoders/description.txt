@@ -1,0 +1,3 @@
+The decoders have been designed in gate-level modeeling. 
+The top modules are created to interface the design with the board I/O.
+The testbenches are utilized to verify the design. 
