@@ -1,2 +1,2 @@
 The code implements a 2-bit greater than circuit. This design takes in two two-bit inputs (a, b) and asserts an output (op) to 1 when a>b.  
-This code utilizes gate-level modelling. A top module is created to interface between the design file and the board I/O.  
+This code utilizes gate-level modelling. A top module is created as an interface for design file and the board I/O.  
