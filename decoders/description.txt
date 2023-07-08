@@ -1,3 +1,6 @@
 The decoders have been designed in gate-level modeeling. 
 The top modules are created to interface the design with the board I/O.
 The testbenches are utilized to verify the design. 
+The 2 to 4 decoder has enable and 2 bit variable as inputs and corresponding 4 bits as the output.
+The 3 to 8 decoder is designed using two 2 to 4 decoders, the enable signal as used as the third input.
+The 4 to 16 decoder is designed using five 2 to 4 decoders.
